@@ -1,5 +1,6 @@
 " you can use the command :source ~/.vimrc to reload/reapply .vimrc
 
+set nocompatible
 
 " size of a hard tabstop
 set tabstop=4
